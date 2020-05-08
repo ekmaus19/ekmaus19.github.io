@@ -22,8 +22,8 @@ title: Elizaveta Kravchenko
 email: ekravchenko2019@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Elizaveta works on different projects. Here's some work from past // present // future.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ekmaus19" # the subpath of your site, e.g. /blog
+url: "ekmaus19.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ekmaus19
 
 # Build settings
