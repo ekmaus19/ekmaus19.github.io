@@ -1,0 +1,162 @@
+- selector: intro
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/Rathgen3.jpg
+    - src: /assets/images/39_a.jpg
+    - src: /assets/images/amp1.png
+      alt: 39 Steps Audition Poster, 2018
+    - src: /assets/images/c.jpg
+      alt: Cabaret Production Poster, 2018
+    - src: /assets/images/wes_media_static.jpg
+    - src: /assets/images/h.jpg
+      alt: Hedwig and the Angry Inch Production Poster, 2017
+  settings:
+    height: 1000
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: posters_all
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/lb2.jpg
+      alt: Legally Blonde the Musical Audition Poster 2018
+    - src: /assets/images/39_a.jpg
+      alt: 39 Steps Audition Poster, 2018
+    - src: /assets/images/39_1.jpg
+      alt: 39 Steps Production Poster, 2018
+    - src: /assets/images/ttap.jpg
+      alt: Time to a Phantom Play Tour, 2019
+    - src: /assets/images/c.jpg
+      alt: Cabaret Production Poster, 2018
+    - src: /assets/images/h.jpg
+      alt: Hedwig and the Angry Inch Production Poster, 2017
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: banners
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/lb1.jpg
+      alt: Legally Blonde the Musical Audition Banner, 2018
+    - src: /assets/images/39_banner.jpg
+      alt: 39 Steps Audition Banner, 2018
+    - src: /assets/images/hm1.jpg
+      alt: Hedwig and the Angry Inch Mini Promo 1
+    - src: /assets/images/hm3.jpg
+      alt: Hedwig and the Angry Inch Mini Promo 2
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: caesarius
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/caesarius_1.png
+    - src: /assets/images/caesarius_2.png
+    - src: /assets/images/caesarius_3.png
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: travel_maps
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/Rathgen1.jpg
+    - src: /assets/images/Rathgen3.jpg
+    - src: /assets/images/Schumacher.jpg
+    - src: /assets/images/VonHalle3.jpg
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: amp
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/amp1.png
+    - src: /assets/images/amp2.png
+    - src: /assets/images/amp3.png
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: around
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/images/a1.jpg
+    - src: /assets/images/a2.jpg
+    - src: /assets/images/a3.jpg
+    - src: /assets/images/a4.jpg
+    - src: /assets/images/a5.jpg
+    - src: /assets/images/a6.jpg
+    - src: /assets/images/a7.jpg
+    - src: /assets/images/a8.jpg
+    - src: /assets/images/a9.jpg
+    - src: /assets/images/a10.jpg
+    - src: /assets/images/a11.jpg
+    - src: /assets/images/a12.jpg
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Graphic Design"
+categories: comic
+image_sliders:
+  - posters_all
+  - banners
+---
+Posters for theatre productions in Wesleyan University and beyond.
+
+{% include slider.html selector="posters_all" %}
+
+---
+
+# Some supplemental production materials
+
+{% include slider.html selector="banners" %}

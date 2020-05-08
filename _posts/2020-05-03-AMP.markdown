@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "AMP: Connecting Local Artists"
+categories: code
+image_sliders:
+  - amp
+---
+As part of the final for Horizons School of Technology in San Francisco, I collaborated with two other program participants to create AMP, a way to connect local artists and art seekers who might have difficulty accessing local arts listings.
+
+{% include slider.html selector="amp" %}
+
+## SUMMARY
+Standing for Arts, Music, and Performance, this web platform offers a single space for artists to connect with one another and advertise events. My team developed a social-network type site to target “art creators,” and a map interface for “art seekers” who were just looking for a quick way to find events near them. The latter was the main focus of my work.
+
+# Approach
+I approached the design of this app by thinking about the issues a typical art-seeker might have, and tried to answer each pain point with a feature on the interface (using myself as a frame of reference and gathering input from others my age and my team). The goal was to create a one-stop intuitive tool to show what events are right around the user considering every scale, from location to time. Since this project aimed to make art finding as easy as possible, the map opened to a georeferenced user location, with color coded dots representing ongoing events nearest to the user. Clicking on a dot provided a small popup with basic information, and clicking the “More” button opened up a side menu providing greater detail. Thinking through the needs of an art seeker -- perhaps they want to look at events specifically pride related in June? Or maybe they are flying to a new location and want to check out what’s there ahead of time? -- I developed a side menu where people can search for a specific location, a specific tag on an event, or a particular time (the time options ranged from the immediate - useful in a city, yet not provided my most services - to the traditional calendar interface).
+
+# Methodology
+I had learned React as part of the summer program, and our team decided to implement the framework for the overall platform. From coursework at the Wesleyan QAC, I was familiar with Leaflet for R, and using this discovered the Leaflet.js library. I found React-leaflet as a good intermediary, and used this along with related extensions to create the map.  Since no one in my program had experience with Leaflet, I ended up spearheading this research myself. Some searching on npm also helped me find the geolocating tool I integrated with both user location and the form intended for artists to use to register particular events. Through this experience, I gained familiarity reading API documentation and experimenting with new coding tools.
+
+# Moving Forward
+While we focused on individual pieces of the puzzle - one person on front end, one on back, and myself building the map with some calls to the back server - our team came together to create a solution for a problem all of us felt passionate about. This project underwent further development through the Wesleyan Start-Up Incubator course, where using lean methodology, ethical ramifications of the app were put to the test. In today's often polarizing society, where minority voices are often the target of much violence, would an app pointing to intersectional events allow for easier targeting of these groups? How does one protect such gatherings while ensure their existence reaches people who need them most? This project has been frozen until we can safely answer questions such as these.  

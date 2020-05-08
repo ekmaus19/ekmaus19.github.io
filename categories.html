@@ -1,0 +1,14 @@
+---
+layout: default
+title: Work
+---
+<h1>A Quick Sampling of Projects:</h1>
+
+<ul>
+  {% for thing in site.contentType %}
+    <li>
+      <h2><a href="{{ thing.url }}">{{ thing.name }}</a></h2>
+      <p>{{ thing.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

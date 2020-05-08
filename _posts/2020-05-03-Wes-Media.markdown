@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Wesleyan Media Project: Static Map"
+categories: viz
+---
+
+[LIVE on Wesleyan Media Project Site](http://mediaproject.wesleyan.edu/releases/issues-090618/)
+
+A first iteration of a longer project for the Wesleyan Media Project visualizing ad airing data across domestic United States for September 2018. A more detailed version and continuation of this project can be found on [github](https://github.com/ekmaus19/wmp_issues-map).
+
+![WesMedia Map](/assets/images/wes_media_static.jpg)
+
+This visualization required more collaboration with the Project coordinators, leading to multiple drafts and layout iterations. The choropleths are coded in R (ggplot2), with layout in Adobe InDesign.
