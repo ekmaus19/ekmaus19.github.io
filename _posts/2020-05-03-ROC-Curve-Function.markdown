@@ -3,7 +3,7 @@ layout: post
 title:  "ROC Curve Function"
 categories: code
 ---
-More on [GITHUB](https://github.com/ekmaus19/qacStats)
+More on [GitHub](https://github.com/ekmaus19/qacStats)
 
 # SUMMARY
 Part of a function created for the QAC Stats package created by the Advanced R course at Wesleyan University. The package was created with interviews of Wesleyan professors with regards to what tools would best serve student learning and assist their teaching.
