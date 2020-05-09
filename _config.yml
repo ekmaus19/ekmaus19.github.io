@@ -27,7 +27,7 @@ url: "ekmaus19.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  ekmaus19
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
