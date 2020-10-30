@@ -21,10 +21,14 @@
 title: Elizaveta Kravchenko
 email: ekravchenko2019@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Elizaveta is an Austin based educator, artist, and videogame developer.
+  Elizaveta is an Austin based educator, artist, and developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ekmaus19.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ekmaus19
+# This site was made with
+# [minima](https://github.com/jekyll/minima)
+# You can find the source code for Jekyll at GitHub:
+# [jekyll](https://github.com/jekyll/jekyll)
 
 # Build settings
 theme: minima
