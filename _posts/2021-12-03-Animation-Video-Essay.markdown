@@ -3,7 +3,7 @@ layout: post
 title:  "Animation: Video Essay"
 categories: comic
 ---
-Check out the production [GitHub](https://www.youtube.com/watch?v=oVW3b_IcniI)
+Check out the production [recording](https://www.youtube.com/watch?v=oVW3b_IcniI)
 
 # SUMMARY
 Videoessay co-conceived by Zachariah Ezer and Braxton Rae
