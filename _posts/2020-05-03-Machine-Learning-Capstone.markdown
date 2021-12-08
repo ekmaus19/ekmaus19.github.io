@@ -20,6 +20,3 @@ Verification of Existing Rubric. The existence of different topics will be explo
 Classification. A supervised text classification approach will subsequently be used with the topics optimized in the previous step.
 
 Automation. Finally, this project will wrap the machine learning algorithm in a stand alone application (using Orange, a Python based software) to make automated classification more accessible for the lab going forward.
-
-# CURRENTLY
-I have parsed through the raw missions data collected by the lab, and am researching methods to create the Orange application. I will include further updates as the project progresses!
