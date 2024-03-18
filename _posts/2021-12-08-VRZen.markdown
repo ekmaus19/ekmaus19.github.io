@@ -6,22 +6,35 @@ categories: code
 
 Final project for Introduction to Virtual Environments (INF 385T) at The University of Texas at Austin, Fall 2021. See more [here](https://ekmaus19.itch.io/vrzen).
 
-**Overview** 
+## Overview
+
 VRZen works to foster a calming space specically designed for students. The project aims to **fill the support gap between contacting university mental health services and attending the first appointment**, although the platform has potential to be used indefinitely. This prototype is a first step in addressing student needs while reducing reliance on physical university spaces by way of:
+
 ● Refuge within a calming virtual space available 24/7
+
 ● Peer support from other students using the app at their university
+
 ● Virtually guided meditation and mindfulness exercises 
+
 ● Compiled resources for further self-care, in VR and beyond 
 
 By providing a readily available resource to university students experiencing psychological duress, VRZen attempts to help manage some of the student’s most pressing stressors until they are able to
 receive professional help.
 
-**Contribution Statement**
+## Contribution Statement
+
 My specific contributions to the demo include:
+
 ● Constructing/designing the waiting room and quiet room
+
 ● Designing the portal mechanisms and connecting the outside meditative environments
+
 ● Setting up the movement of and interactions with the NPC support animal
+
 ● Mocking UI elements and providing information on proposed features
+
 ● Integrating all scenes for Oculus Quest, including grabbing capabilities
+
 ● Capturing footage of the project for the promotional video using Unity Timeline
+
 ● Conceptualizing additional avenues for demo expansion, including a "take a sweet/leave a sweet" feature (where students can share audio notes attached to a piece of candy)
