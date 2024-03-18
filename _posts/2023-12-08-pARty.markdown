@@ -4,3 +4,17 @@ title:  "pARty"
 categories: code
 ---
 Final project for Interaction Design at The University of Texas at Austin, Spring 2023. See more [here]([https://ekmaus19.itch.io/vrzen](https://uxfol.io/home/portfolios/ohhecktech)https://uxfol.io/home/portfolios/ohhecktech).
+
+**Overview**
+pARty is a response to the isolation our team has felt from the semi-constant turbulence of young(er) adulthood, exacerbated by the ongoing pandemic. This project sets out to develop a **more
+financially accessible, flexible, and immediately available experience** to bring people together. Considering the rising cost of social outings imposing an implicit socioeconomic challenge to connection (which manifested even during our research process, as our team was unable to afford the cost of physical escape room attendance), we purposely worked with the more readily available mediums of phones and TV sets. Although not ubiquitous, these devices provided viable alternatives to costlier technologies without detracting from the core of the experience. Leaning into the flippant fun of party games, pARty creates a relaxed atmosphere with an engaging story-based twist.
+
+The proof-of-concept includes shell UI elements and a sample narrative with demo interactions. The proposed product would include a set collection of narrative-oriented escape rooms, with opportunities to purchase expansion packs and integrate user generated stories. The current scenario, **Claus-traphobia**, positions players as naughty elves who broke into Santa’s Christmas spirit(s) and need to escape their boss’ office undetected.
+
+**Contribution Statement**
+My specific contributions to the demo include:
+● Spearheading narrative design, including outlining story arc, themes, and maintaining core gameplay stakes through the development process
+● Integrating story elements with escape room use-case and puzzle structure
+● Simulating and refining core puzzle structure/interactions with Adobe Aero (“putting together” broken doll, ringing bells, opening Santa’s drawer, finding secret drawings)
+● Sourcing assets, modifying as needed using Blender
+● Script, storyboarding, and video capture for sizzle reel
