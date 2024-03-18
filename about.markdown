@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Elizaveta (Lee) Kravchenko is a second year MSIS student with a concentration in UX Design at the University of Texas in Austin. At UT, they contribute to research on ethical AI toolkits and study sociotechnical systems in higher education. Committed to digital accessibility and equitable design, they have taught videogame and STEM skills in educational programs such as Girls Who Code, Game U, and Sandbox Ops. Lee is also a Graduate Immersive Fellow with the Texas Immersive Institute, a program specializing in VR/AR/XR design methods.
+Elizaveta (Lee) Kravchenko is a first-year PhD student at Northeastern University, studying Interdisciplinary Design and Media. Their work bridges technological and theatrical practice, centering the communicative power of embodiment. Previously completing an MSIS at UT Austin, they contributed to research on ethical AI toolkits and critiques of sociotechnical systems in higher education. Committed to digital accessibility and equitable design, Lee has taught videogame and STEM skills in educational programs such as Girls Who Code, Game U, and Sandbox Ops. Lee was also a 2022 Graduate Fellow with the Texas Immersive Institute, a program specializing in emerging and interactive design methods.
 
 [Resume](/assets/pdfs/E. Kravchenko Resume.pdf)
 {% include slider_styles.html %}
