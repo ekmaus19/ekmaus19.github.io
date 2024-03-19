@@ -3,7 +3,7 @@ layout: post
 title:  "pARty"
 categories: code
 ---
-Final project for Interaction Design at The University of Texas at Austin, Spring 2023. See more [here]([https://uxfol.io/home/portfolios/ohhecktech])).
+Final project for Interaction Design at The University of Texas at Austin, Spring 2023. See more [here](https://uxfol.io/home/portfolios/ohhecktech).
 
 ## Overview
 
